@@ -1,4 +1,3 @@
-#load "MainLogic.csx"
 #r "FacebookUtillity.dll"
 
 using System;
