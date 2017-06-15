@@ -1,6 +1,8 @@
 #load "MainLogic.csx"
+#r "FacebookUtillity.dll"
 
 using System;
+using FacebookUtillity;
 
 public static async Task Run(string myQueueItem, TraceWriter log)
 {
@@ -11,9 +13,7 @@ public static async Task Run(string myQueueItem, TraceWriter log)
     string schema = System.Configuration.ConfigurationManager.ConnectionStrings["Schema"].ConnectionString;
     string facebookClientId = System.Configuration.ConfigurationManager.ConnectionStrings["FacebookClientId"].ConnectionString;
     string facebookClientSecret = System.Configuration.ConfigurationManager.ConnectionStrings["FacebookClientSecret"].ConnectionString;
-
-
     string date = myQueueItem;
 
-    await MainLogic.PopulateAll(sqlConnectionString, schema, cognitiveKey, facebookClientId, facebookClientSecret, date);
+    await MainETL.PopulateAll(sqlConnectionString, schema, cognitiveKey, facebookClientId, facebookClientSecret, date);
 }
