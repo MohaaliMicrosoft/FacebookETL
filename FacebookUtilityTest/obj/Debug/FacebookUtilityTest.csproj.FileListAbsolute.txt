@@ -1,0 +1,10 @@
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\FacebookUtilityTest.exe.config
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\FacebookUtilityTest.exe
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\FacebookUtilityTest.pdb
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\FacebookUtillity.dll
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\FacebookUtillity.pdb
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\obj\Debug\FacebookUtilityTest.csprojResolveAssemblyReference.cache
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\obj\Debug\FacebookUtilityTest.exe
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtilityTest\obj\Debug\FacebookUtilityTest.pdb

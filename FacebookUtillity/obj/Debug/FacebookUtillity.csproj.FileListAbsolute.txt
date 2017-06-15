@@ -1,0 +1,7 @@
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\bin\Debug\FacebookUtillity.dll
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\bin\Debug\FacebookUtillity.pdb
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\obj\Debug\FacebookUtillity.csprojResolveAssemblyReference.cache
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\obj\Debug\FacebookUtillity.dll
+C:\Users\muali\Documents\Visual Studio 2017\Projects\FacebookETL\FacebookUtillity\obj\Debug\FacebookUtillity.pdb
